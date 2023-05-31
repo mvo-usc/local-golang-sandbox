@@ -1,0 +1,8 @@
+# Project
+README.md
+LICENSE
+.gitignore
+.devcontainer
+.github
+.vscode
+deployments
